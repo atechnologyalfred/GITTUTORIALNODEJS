@@ -1,1 +1,3 @@
 //app technologies
+import add from './add.js';
+console.log(add(20, 30));
